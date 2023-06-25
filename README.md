@@ -374,3 +374,5 @@ Normalmente adicionar apenas um raspador necessita apenas de um único commit. M
 Uma boa prática é sempre atualizar a ramificação (_branch_) que você está desenvolvendo com o que está na `main` atualizada do projeto. Assim, se o projeto teve atualizações, você pode resolver algum conflito antes mesmo de fazer o Pull Request.
 
 Qualquer dúvida, abra o seu Pull Request em modo de rascunho (_draft_) e relate suas dúvidas para que pessoas do projeto tentem te ajudar 😃. O [canal de discussões no Discord](https://discord.com/invite/nDc9p4drm4) também é aberto para tirar dúvidas e trocar ideias.
+
+Testando
